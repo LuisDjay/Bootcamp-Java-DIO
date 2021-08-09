@@ -8,7 +8,7 @@
 		<version>2.5.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.com.globalabs</groupId>
+	<groupId>br.com.globallabs</groupId>
 	<artifactId>exemplo-maven</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>exemplo-maven</name>
